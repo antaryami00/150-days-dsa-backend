@@ -8,4 +8,4 @@ Goals:
 - Strengthen backend engineering fundamentals
 - Build consistency and discipline
 
-Each folder represents one day of learning.
+Each folder represents one day of learning. 
